@@ -1,6 +1,6 @@
 // ===== CONFIG =====
 // Replace this with your Render backend URL after deployment
-const API_URL = 'https://your-backend.onrender.com/api';
+const API_URL = 'https://taskmanager-backend-jsrg.onrender.com/api';
 
 let currentUser = null;
 let editingTaskId = null;
